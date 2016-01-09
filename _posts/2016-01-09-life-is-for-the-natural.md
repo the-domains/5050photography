@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-09T16:01:19.083Z'
-dateModified: '2016-01-09T16:01:05.889Z'
+datePublished: '2016-01-09T16:18:48.661Z'
+dateModified: '2016-01-09T16:11:07.450Z'
 title: Life is Nature
 author: []
 sourcePath: _posts/2016-01-09-life-is-for-the-natural.md
