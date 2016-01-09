@@ -1,6 +1,6 @@
 name: 5050photography
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.2495
 typography_spectrum: 0.52405
 title: 5050photography
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0
   lightness: 1
   saturation: 1
-  rhythmicContrast: 1
+  rhythmicContrast: 0.5
 purpose: []
