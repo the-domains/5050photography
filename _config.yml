@@ -23,7 +23,7 @@ color:
     - '#444444'
     - '#adadad'
   brandStrength: 0
-  lightness: 0.5
+  lightness: 0.625
   saturation: 0.9375
   rhythmicContrast: 0.5
 purpose: []
