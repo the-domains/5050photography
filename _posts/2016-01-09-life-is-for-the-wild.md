@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-09T12:44:41.503Z'
-dateModified: '2016-01-09T12:44:29.008Z'
+datePublished: '2016-01-09T15:48:34.586Z'
+dateModified: '2016-01-09T12:47:44.680Z'
 title: Life is for the Wild
 author: []
 sourcePath: _posts/2016-01-09-life-is-for-the-wild.md
