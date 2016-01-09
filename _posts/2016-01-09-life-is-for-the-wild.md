@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-09T12:40:29.830Z'
-dateModified: '2016-01-09T12:40:22.159Z'
+datePublished: '2016-01-09T12:44:41.503Z'
+dateModified: '2016-01-09T12:44:29.008Z'
 title: Life is for the Wild
 author: []
 sourcePath: _posts/2016-01-09-life-is-for-the-wild.md
@@ -34,7 +34,6 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb981367-a7ae-4ce4-8051-be115e11ec3a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/553e0e28-3afa-406e-b319-4180f01d3092.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7541c2f-54df-4476-b69c-3285972feb1f.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/417f10fd-5ea7-422d-baee-a7e53e2fbc44.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0af53064-b1bf-46eb-9cf6-571f5bf05503.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e991bae-d799-4d7e-9065-c091cada6d3d.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/edf28e13-0b25-42b7-a11c-f5c65738adfa.jpg)
