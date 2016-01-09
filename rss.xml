@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[5050photography]]></title>
         <description><![CDATA[5050photography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://5050photography.ai/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jan 2016 06:55:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 09 Jan 2016 07:03:20 GMT</lastBuildDate>
+        <atom:link href="http://5050photography.ai/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa741775-4798-42a2-91c2-8f05a06343b7.jpg">]]></description>
+            <link>http://5050photography.ai/c540d4bf-5293-41ca-9dce-ed58d99221a3/index.html</link>
+            <guid isPermaLink="false">c540d4bf-5293-41ca-9dce-ed58d99221a3</guid>
+            <pubDate>Sat, 09 Jan 2016 07:03:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac7ed240-92ca-48f2-a126-5d26e8e128a6.jpg">]]></description>
-            <link>undefinedb34f9fc0-4997-418c-91ea-02317bd29cb6/index.html</link>
+            <link>http://5050photography.ai/b34f9fc0-4997-418c-91ea-02317bd29cb6/index.html</link>
             <guid isPermaLink="false">b34f9fc0-4997-418c-91ea-02317bd29cb6</guid>
             <pubDate>Sat, 09 Jan 2016 06:55:03 GMT</pubDate>
         </item>
