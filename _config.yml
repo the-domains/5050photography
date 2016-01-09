@@ -1,7 +1,7 @@
 name: 5050photography
 favicon: null
-layout_spectrum: 0.01102
-typography_spectrum: 0.00701
+layout_spectrum: 0
+typography_spectrum: 0.11723
 title: 5050photography
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#444444'
     - '#adadad'
   brandStrength: 0
-  lightness: 0.5
-  saturation: 1
-  rhythmicContrast: 0.5
+  lightness: 1
+  saturation: 0.75
+  rhythmicContrast: 1
 purpose: []
