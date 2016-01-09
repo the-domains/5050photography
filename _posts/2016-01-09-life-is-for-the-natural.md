@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-09T15:47:35.815Z'
-dateModified: '2016-01-09T15:45:25.634Z'
-title: Life is for the Natural
+datePublished: '2016-01-09T16:01:19.083Z'
+dateModified: '2016-01-09T16:01:05.889Z'
+title: Life is Nature
 author: []
 sourcePath: _posts/2016-01-09-life-is-for-the-natural.md
 published: true
@@ -22,7 +22,7 @@ url: life-is-for-the-natural/index.html
 _type: Article
 
 ---
-# Life is for the Natural
+# Life is Nature
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a217bd8-3bae-484d-a77d-74e15d008983.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ffee598c-5874-4647-a0b9-32dbf2d2a818.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4938fc8c-40c5-48f5-950a-c8f069bfbe8a.jpg)
