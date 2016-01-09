@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-09T15:27:40.209Z'
-dateModified: '2016-01-09T15:26:57.405Z'
+datePublished: '2016-01-09T15:47:35.815Z'
+dateModified: '2016-01-09T15:45:25.634Z'
 title: Life is for the Natural
 author: []
 sourcePath: _posts/2016-01-09-life-is-for-the-natural.md
@@ -46,13 +46,10 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/429cfe19-d786-4548-8b4b-efbc6a851e11.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c16e52d3-2193-4a1a-bc9d-7eec8c7b7228.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/60d277f6-2ad8-4b5c-9b55-84a7dcd33220.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/619aa72d-8ab0-4420-bc49-11d27224efda.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/574086b2-c41d-4ede-a0b6-b5acf611106c.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/62265a58-9548-4e56-957f-0cf1aa5b6fd9.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/07c1363d-4fe7-4d0b-b34c-3a96e637d8a6.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b27e759-460b-4920-a6dd-ad9f6b1d941f.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2d4c9f7-4634-47b4-b650-8f32e87641c7.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/61bdefe2-468e-4503-a83d-1611c5184b3a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3bdae031-61a2-47a9-918e-66c97a4a984f.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ce699b7-fb7a-4051-87ab-035850b20431.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4514f4ea-1743-4539-a8d0-ed6da73f37b1.jpg)
@@ -61,7 +58,7 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ad6cdaa-c782-4355-b7a0-6126d8734231.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/85e3a6be-5433-426c-b631-3c3d866e1056.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d16e1d72-054f-48df-8778-7bd174bad9c6.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/da2ed2ae-1a50-4e6f-8e5c-4c750ab4535f.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c47ef7b38e8c2e486b1eb66ac08e44a4bd5cef4a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d9428de-cbac-431b-8097-073ba973acae.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ad22a7b-cbeb-4630-915b-848dc8e9c49b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8ebbeda-842c-40fa-adfe-80f5df200ff1.jpg)
