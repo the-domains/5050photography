@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-09T17:16:52.897Z'
-dateModified: '2016-01-09T16:19:24.216Z'
-title: Life is Natural
+datePublished: '2016-01-10T04:34:06.624Z'
+dateModified: '2016-01-10T04:32:16.820Z'
+title: Life is for the Natural
 author: []
 sourcePath: _posts/2016-01-09-life-is-for-the-natural.md
 published: true
@@ -22,7 +22,7 @@ url: life-is-for-the-natural/index.html
 _type: Article
 
 ---
-# Life is Natural
+# Life is for the Natural
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a217bd8-3bae-484d-a77d-74e15d008983.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ffee598c-5874-4647-a0b9-32dbf2d2a818.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4938fc8c-40c5-48f5-950a-c8f069bfbe8a.jpg)
@@ -58,12 +58,8 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ad6cdaa-c782-4355-b7a0-6126d8734231.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/85e3a6be-5433-426c-b631-3c3d866e1056.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d16e1d72-054f-48df-8778-7bd174bad9c6.jpg)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c47ef7b38e8c2e486b1eb66ac08e44a4bd5cef4a.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d9428de-cbac-431b-8097-073ba973acae.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ad22a7b-cbeb-4630-915b-848dc8e9c49b.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8ebbeda-842c-40fa-adfe-80f5df200ff1.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c7a31cb-febf-4264-a7d1-f0d0cfe38792.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e2da2a1-6f80-4c65-9f29-caa0aa9b18c0.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ada57ef62412fda40e014fd50f9e701e9bcc27f8.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1d8666242d7da2ad48479d81cc7fffd9a95085be.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/da8333de-8146-4312-be05-0dd2f72b9874.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/665251d6-84d9-41c4-a88e-227db521164f.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0ac4007-c872-4719-8746-1dfcc58b8f4d.jpg)
