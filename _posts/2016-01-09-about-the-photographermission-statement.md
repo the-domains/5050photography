@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-10T10:17:43.493Z'
-dateModified: '2016-01-10T10:13:57.786Z'
+datePublished: '2016-01-10T14:06:55.669Z'
+dateModified: '2016-01-10T14:06:51.457Z'
 title: About the Photographer/Mission Statement
 author: []
 sourcePath: _posts/2016-01-09-about-the-photographermission-statement.md
@@ -26,7 +26,7 @@ _type: Article
 
 # About the Photographer/Mission Statement
 
-Hey world I'm [Scott Cramer][0]. All of the photography you see posted on this website was captured by me during my journey: 6 continents and 20 countries...so far. Travel is one of the great blessings in my life and has illuminated the glorious splendor of existence to me in many ways: 
+Hey world I'm [Scott Cramer][0]. These are my photos collected from all over our shared planet: 6 continents and 20 countries...so far. Travel is one of the great blessings in my life and has illuminated the glorious splendor of existence to me in many ways: 
 
 Human beings, despite our differences in appearance, beliefs, histories, and culture are all beautiful; sharing the equal capacity for love, compassion, kindness, harmony, and peace. The natural world, despite its' propensity to rage against our existence on this planet, is unfathomable in its depth and grandeur, deserving our utmost respect, reverence, and conservation. The wildlife that share our planet have every right to thrive and be protected from man's destructive tendencies. 
 
