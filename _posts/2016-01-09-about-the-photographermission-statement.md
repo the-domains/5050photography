@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-10T05:09:59.003Z'
-dateModified: '2016-01-10T05:09:53.936Z'
+datePublished: '2016-01-10T10:17:43.493Z'
+dateModified: '2016-01-10T10:13:57.786Z'
 title: About the Photographer/Mission Statement
 author: []
 sourcePath: _posts/2016-01-09-about-the-photographermission-statement.md
@@ -22,6 +22,8 @@ url: about-the-photographermission-statement/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1c4baa2-712f-44e5-98dc-17c90d0090e6.jpg)
+
 # About the Photographer/Mission Statement
 
 Hey world I'm [Scott Cramer][0]. All of the photography you see posted on this website was captured by me during my journey: 6 continents and 20 countries...so far. Travel is one of the great blessings in my life and has illuminated the glorious splendor of existence to me in many ways: 
@@ -37,7 +39,5 @@ Initially when I started 5050photography back in 2013 my dream was to sell fine 
 Love to you and yours,
 
 Scott
-undefined
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1c4baa2-712f-44e5-98dc-17c90d0090e6.jpg)
 
 [0]: https://thegrid.ai/scottcramer
