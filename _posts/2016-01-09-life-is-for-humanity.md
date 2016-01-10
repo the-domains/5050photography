@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-09T13:33:29.348Z'
-dateModified: '2016-01-09T13:32:30.208Z'
+datePublished: '2016-01-10T06:17:20.905Z'
+dateModified: '2016-01-10T06:15:39.772Z'
 title: Life is for Humanity
 author: []
 sourcePath: _posts/2016-01-09-life-is-for-humanity.md
@@ -25,8 +25,8 @@ _type: Article
 # Life is for Humanity
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/377973d4-f9bf-44e2-b5e1-10c34d6b0a9a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a0510fc0-c02d-4c84-b082-b027a8e70a44.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae7ea1db-e3b7-4e16-be12-5dbf440e03a2.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/da880bda-1a22-4432-ba89-2ed2c0784e8a.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae7ea1db-e3b7-4e16-be12-5dbf440e03a2.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/adeda2cb-f0c0-4ce0-b9d3-3e0062ad6bc3.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f318c8ec-ab05-4f14-802f-fdac5bf9f56f.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d457c31e-3475-4cf1-b797-52480c98f765.jpg)
