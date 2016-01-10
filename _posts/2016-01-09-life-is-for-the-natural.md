@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-10T04:34:06.624Z'
-dateModified: '2016-01-10T04:32:16.820Z'
+datePublished: '2016-01-10T04:38:10.614Z'
+dateModified: '2016-01-10T04:38:02.260Z'
 title: Life is for the Natural
 author: []
 sourcePath: _posts/2016-01-09-life-is-for-the-natural.md
@@ -58,10 +58,7 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ad6cdaa-c782-4355-b7a0-6126d8734231.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/85e3a6be-5433-426c-b631-3c3d866e1056.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d16e1d72-054f-48df-8778-7bd174bad9c6.jpg)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ada57ef62412fda40e014fd50f9e701e9bcc27f8.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1d8666242d7da2ad48479d81cc7fffd9a95085be.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/da8333de-8146-4312-be05-0dd2f72b9874.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/665251d6-84d9-41c4-a88e-227db521164f.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0ac4007-c872-4719-8746-1dfcc58b8f4d.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1ac89ea-e6d6-4c55-befb-481788d04ba2.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2a561a5-4250-4eb2-95c7-46235bd070bc.jpg)
