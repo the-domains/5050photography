@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-10T14:06:55.669Z'
-dateModified: '2016-01-10T14:06:51.457Z'
+datePublished: '2016-01-10T15:11:51.601Z'
+dateModified: '2016-01-10T15:11:42.912Z'
 title: About the Photographer/Mission Statement
 author: []
 sourcePath: _posts/2016-01-09-about-the-photographermission-statement.md
@@ -30,7 +30,7 @@ Hey world I'm [Scott Cramer][0]. These are my photos collected from all over our
 
 Human beings, despite our differences in appearance, beliefs, histories, and culture are all beautiful; sharing the equal capacity for love, compassion, kindness, harmony, and peace. The natural world, despite its' propensity to rage against our existence on this planet, is unfathomable in its depth and grandeur, deserving our utmost respect, reverence, and conservation. The wildlife that share our planet have every right to thrive and be protected from man's destructive tendencies. 
 
-I am convinced from all the experiences that I have gathered along the trail that spreading love, peace, positive energy, and sustainable means of co-existence is life's great purpose. Any photo you see posted here can be sold provided you share in this same ideal. Reward yourself with a fine art print while simultaneously helping those in need, endangered wildlife, or our rapidly changing environment. 
+I am convinced from all the experiences that I have gathered along the trail that spreading love, peace, positive energy, and sustainable means of co-existence remains life's great purpose. Any photo you see posted here can be sold provided you share in this same ideal. Reward yourself with a fine art print while simultaneously helping those in need, endangered wildlife, or our rapidly changing environment. 
 
 Obtain my artwork through donating to your chosen cause, non-profit, or charity... it's that simple: Each day we rise and have potential to do great and inspiring things for others. If you are inspired by my work and inspired to do awesome things for others, I am stoaked to do "business" with you.  
 
