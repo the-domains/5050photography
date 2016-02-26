@@ -1,7 +1,7 @@
 name: 5050photography
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.0972
+layout_spectrum: 0.25351
+typography_spectrum: 0.24349
 title: 5050photography
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#65574a'
-    - '#a2a3b5'
-    - '#d2d1d7'
-    - '#070000'
-    - '#242b4c'
+    - '#000000'
+    - '#616161'
+    - '#2d2d2d'
+    - '#b8b8b8'
+    - '#e7e7e7'
   brandStrength: 0
   lightness: 1
   saturation: 1
-  rhythmicContrast: 0.25
+  rhythmicContrast: 0
 purpose: []
