@@ -5,18 +5,20 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Life is for the natural
-datePublished: '2016-05-22T10:59:40.036Z'
-dateModified: '2016-05-22T10:59:32.302Z'
+datePublished: '2016-05-22T11:04:18.757Z'
+dateModified: '2016-05-22T11:03:31.401Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-22-life-is-for-the-natural.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-22-life-is-for-the-natural.md
 url: life-is-for-the-natural/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2453072-25f1-4800-abfb-76d05f909473.jpg)
+
 Life is for the natural
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8582a16d-3634-4e6e-aab1-0ed6f6b4466e.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f130c8c9-9c31-4668-961d-7200e4b7bc8c.jpg)
