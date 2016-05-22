@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Hey world my name is Scott. These are my photos collected from 6 continents on our glorious Earth. Travel is one of the great blessings in my life and has illuminated the glorious splendor of existence to me in many ways:'
-datePublished: '2016-05-22T06:00:40.106Z'
-dateModified: '2016-05-22T05:59:44.488Z'
+datePublished: '2016-05-22T07:33:00.206Z'
+dateModified: '2016-05-22T07:32:52.867Z'
 title: About the Photographer/Mission Statement
 author: []
 sourcePath: _posts/2016-01-09-about-the-photographermission-statement.md
@@ -17,7 +17,6 @@ url: about-the-photographermission-statement/index.html
 _type: Article
 
 ---
-null
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1c4baa2-712f-44e5-98dc-17c90d0090e6.jpg)
 
 # About the Photographer/Mission Statement
