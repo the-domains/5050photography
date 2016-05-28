@@ -4,7 +4,7 @@
         <description><![CDATA[5050photography]]></description>
         <link>http://5050photography.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 28 May 2016 11:06:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2016 12:19:19 GMT</lastBuildDate>
         <atom:link href="http://5050photography.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://5050photography.org/9f7b0f96-4753-4f60-8492-06fe2997fc14/index.html</link>
             <guid isPermaLink="false">9f7b0f96-4753-4f60-8492-06fe2997fc14</guid>
             <pubDate>Sat, 28 May 2016 09:31:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Life is for humanity]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/adf4784e-5af1-46d7-a221-837d16858c8d.jpg">]]></description>
+            <link>http://5050photography.org/life-is-for-humanity/index.html</link>
+            <guid isPermaLink="false">d5d24746-632d-46cb-b9c6-4bc45aa29a9a</guid>
+            <pubDate>Sat, 28 May 2016 12:19:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -33,13 +40,6 @@
             <link>http://5050photography.org/the-photographer-mission/index.html</link>
             <guid isPermaLink="false">0e12d9d9-9fb6-4f09-b371-771c9bdd72cf</guid>
             <pubDate>Sat, 28 May 2016 11:01:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/adf4784e-5af1-46d7-a221-837d16858c8d.jpg">]]></description>
-            <link>http://5050photography.org/life-is-for-humanity/index.html</link>
-            <guid isPermaLink="false">d5d24746-632d-46cb-b9c6-4bc45aa29a9a</guid>
-            <pubDate>Sat, 28 May 2016 09:31:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
