@@ -1,4 +1,4 @@
-name: 5050photography
+name: 50/50photography
 favicon: null
 layout_spectrum: 0.25351
 typography_spectrum: 0.11122
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#616161'
-    - '#2d2d2d'
-    - '#b8b8b8'
-    - '#e7e7e7'
+    - '#e8f2ff'
+    - '#adbfd7'
+    - '#004f89'
+    - '#667f9d'
+    - '#001025'
   brandStrength: 0
   lightness: 1
   saturation: 1
