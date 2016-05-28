@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Life is for humanity
-datePublished: '2016-05-28T09:31:07.112Z'
-dateModified: '2016-05-28T09:29:14.396Z'
+datePublished: '2016-05-28T12:19:16.772Z'
+dateModified: '2016-05-28T12:19:15.939Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-22-life-is-for-humanity.md
