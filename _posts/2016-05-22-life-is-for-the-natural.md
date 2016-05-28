@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Life is for the natural
-datePublished: '2016-05-28T13:30:41.764Z'
-dateModified: '2016-05-28T11:06:08.202Z'
+datePublished: '2016-05-28T13:34:11.592Z'
+dateModified: '2016-05-28T13:34:08.118Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-22-life-is-for-the-natural.md
