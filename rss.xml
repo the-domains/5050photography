@@ -2,44 +2,44 @@
     <channel>
         <title><![CDATA[5050photography]]></title>
         <description><![CDATA[5050photography]]></description>
-        <link>https://thegrid.ai/5050photography/</link>
+        <link>http://5050photography.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 28 May 2016 09:31:38 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/5050photography/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 28 May 2016 11:01:17 GMT</lastBuildDate>
+        <atom:link href="http://5050photography.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc0aa345-0a05-440e-9976-0868a40d1376.jpg">]]></description>
-            <link>https://thegrid.ai/5050photography/9f7b0f96-4753-4f60-8492-06fe2997fc14/index.html</link>
+            <link>http://5050photography.org/9f7b0f96-4753-4f60-8492-06fe2997fc14/index.html</link>
             <guid isPermaLink="false">9f7b0f96-4753-4f60-8492-06fe2997fc14</guid>
             <pubDate>Sat, 28 May 2016 09:31:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The Photographer + Mission</p>]]></description>
+            <link>http://5050photography.org/the-photographer-mission/index.html</link>
+            <guid isPermaLink="false">0e12d9d9-9fb6-4f09-b371-771c9bdd72cf</guid>
+            <pubDate>Sat, 28 May 2016 11:01:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/adf4784e-5af1-46d7-a221-837d16858c8d.jpg">]]></description>
-            <link>https://thegrid.ai/5050photography/life-is-for-humanity/index.html</link>
+            <link>http://5050photography.org/life-is-for-humanity/index.html</link>
             <guid isPermaLink="false">d5d24746-632d-46cb-b9c6-4bc45aa29a9a</guid>
             <pubDate>Sat, 28 May 2016 09:31:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f51a735-b965-47e2-ac67-bc7179488ed7.jpg">]]></description>
-            <link>https://thegrid.ai/5050photography/life-is-for-the-wild/index.html</link>
+            <link>http://5050photography.org/life-is-for-the-wild/index.html</link>
             <guid isPermaLink="false">d3cd90a9-0b87-4d9d-9a51-1fe0eb764eaa</guid>
             <pubDate>Sun, 22 May 2016 12:38:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/27f461f7-fa4c-4807-98d1-45cc9eddb919.jpg">]]></description>
-            <link>https://thegrid.ai/5050photography/life-is-for-the-natural/index.html</link>
+            <link>http://5050photography.org/life-is-for-the-natural/index.html</link>
             <guid isPermaLink="false">2f4776ff-9356-4a32-a631-c36d8fd1bdce</guid>
             <pubDate>Sun, 22 May 2016 11:14:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>The Photographer + Mission</p>]]></description>
-            <link>https://thegrid.ai/5050photography/the-photographer-mission/index.html</link>
-            <guid isPermaLink="false">0e12d9d9-9fb6-4f09-b371-771c9bdd72cf</guid>
-            <pubDate>Sun, 22 May 2016 09:47:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
