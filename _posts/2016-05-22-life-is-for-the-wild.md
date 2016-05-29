@@ -1,20 +1,20 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: null
+hasPage: true
+inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-29T08:57:41.749Z'
-dateModified: '2016-05-29T08:57:38.806Z'
+datePublished: '2016-05-29T09:00:09.481Z'
+dateModified: '2016-05-29T09:00:05.529Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-22-life-is-for-the-wild.md
 authors: []
 publisher: null
 starred: false
-_type: Blurb
+url: life-is-for-the-wild/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f51a735-b965-47e2-ac67-bc7179488ed7.jpg)
