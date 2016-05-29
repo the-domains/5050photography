@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-29T08:46:30.054Z'
-dateModified: '2016-05-29T08:46:25.975Z'
+datePublished: '2016-05-29T08:50:45.687Z'
+dateModified: '2016-05-29T08:50:36.949Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-22-life-is-for-humanity.md
