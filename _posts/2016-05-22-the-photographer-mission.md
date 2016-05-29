@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: The Photographer + Mission
-datePublished: '2016-05-29T02:11:13.884Z'
-dateModified: '2016-05-29T02:09:17.913Z'
+datePublished: '2016-05-29T10:11:20.619Z'
+dateModified: '2016-05-29T10:10:48.006Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-22-the-photographer-mission.md
