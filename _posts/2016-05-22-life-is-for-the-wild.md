@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Life is for the wild
-datePublished: '2016-05-28T13:27:30.735Z'
-dateModified: '2016-05-28T13:27:27.258Z'
+datePublished: '2016-05-29T08:21:46.247Z'
+dateModified: '2016-05-29T05:04:54.111Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-22-life-is-for-the-wild.md
