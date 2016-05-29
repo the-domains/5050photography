@@ -4,7 +4,7 @@
         <description><![CDATA[50/50photography]]></description>
         <link>http://5050photography.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 May 2016 10:36:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2016 10:40:16 GMT</lastBuildDate>
         <atom:link href="http://5050photography.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://5050photography.org/9f7b0f96-4753-4f60-8492-06fe2997fc14/index.html</link>
             <guid isPermaLink="false">9f7b0f96-4753-4f60-8492-06fe2997fc14</guid>
             <pubDate>Sat, 28 May 2016 14:01:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Life is for the Natural</p>]]></description>
+            <link>http://5050photography.org/life-is-for-the-natural/index.html</link>
+            <guid isPermaLink="false">c25f2485-a736-4381-954e-05a9dba3f380</guid>
+            <pubDate>Sun, 29 May 2016 10:40:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Life is for the Wild]]></title>
