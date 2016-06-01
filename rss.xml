@@ -4,8 +4,15 @@
         <description><![CDATA[50/50photography]]></description>
         <link>http://5050photography.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 12:28:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2016 12:30:47 GMT</lastBuildDate>
         <atom:link href="http://5050photography.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Human]]></title>
+            <description><![CDATA[<article><h1>Human</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/07331ccc-8700-4600-b73d-932e1462b44d.jpg"></article>]]></description>
+            <link>http://5050photography.org/human/index.html</link>
+            <guid isPermaLink="false">2c3da233-5690-48d4-ae09-84b467acfddb</guid>
+            <pubDate>Wed, 01 Jun 2016 12:30:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wild]]></title>
             <description><![CDATA[<article><h1>Wild</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dffd9f62-e841-4842-b00e-9d25809279bc.jpg"></article>]]></description>
