@@ -4,10 +4,10 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: The Photographer + Mission
-datePublished: '2016-06-01T11:47:26.687Z'
-dateModified: '2016-05-29T10:21:00.869Z'
-title: ''
+description: 'Hey world these are my photos collected from 6 continents on our glorious Earth. Travel is one of the great blessings in my life and has illuminated the glorious splendor of existence to me in many ways: '
+datePublished: '2016-06-01T11:56:03.446Z'
+dateModified: '2016-06-01T11:50:56.366Z'
+title: The Photographer + Mission
 author: []
 sourcePath: _posts/2016-05-22-the-photographer-mission.md
 authors: []
@@ -17,7 +17,7 @@ url: the-photographer-mission/index.html
 _type: Article
 
 ---
-The Photographer + Mission
+# The Photographer + Mission
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a2c5b8d-7456-4520-af70-d57b2909c859.jpg)
 
 Hey world these are my photos collected from 6 continents on our glorious Earth. Travel is one of the great blessings in my life and has illuminated the glorious splendor of existence to me in many ways: 
