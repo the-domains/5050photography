@@ -4,7 +4,7 @@
         <description><![CDATA[50/50photography]]></description>
         <link>http://5050photography.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 12:18:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2016 12:23:14 GMT</lastBuildDate>
         <atom:link href="http://5050photography.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Photographer + Mission]]></title>
@@ -26,13 +26,6 @@
             <link>http://5050photography.org/natural/index.html</link>
             <guid isPermaLink="false">5cb9c66d-e822-4672-858b-7fe1f5d3a7b3</guid>
             <pubDate>Tue, 31 May 2016 12:47:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wild]]></title>
-            <description><![CDATA[<article><h1>Wild</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/29550dc4-0dad-4af3-bd7e-fa07fc2ac1a5.jpg"></article>]]></description>
-            <link>http://5050photography.org/91c785dc-69b6-4bdd-b86e-7d9f8412036a/index.html</link>
-            <guid isPermaLink="false">91c785dc-69b6-4bdd-b86e-7d9f8412036a</guid>
-            <pubDate>Tue, 31 May 2016 12:44:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
