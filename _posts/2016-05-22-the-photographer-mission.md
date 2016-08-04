@@ -4,14 +4,23 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Hey world these are my photos collected from 6 continents on our glorious Earth. Travel is one of the great blessings in my life and has illuminated the glorious splendor of existence to me in many ways: '
-datePublished: '2016-06-01T11:56:03.446Z'
-dateModified: '2016-06-01T11:50:56.366Z'
+description: >-
+  I know... Where are all the photos? Whats up with that? Well I am still
+  developing this site :) sorry. Check out my facebook page to see some of my
+  shots in the meanwhile. Send me a like and a share you bloody legends! Cheers!
+  https://www.facebook.com/5050photo/
+datePublished: '2016-08-04T13:32:56.304Z'
+dateModified: '2016-08-04T13:28:25.291Z'
 title: The Photographer + Mission
 author: []
 sourcePath: _posts/2016-05-22-the-photographer-mission.md
 authors: []
-publisher: null
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+via: {}
 starred: false
 url: the-photographer-mission/index.html
 _type: Article
@@ -19,6 +28,10 @@ _type: Article
 ---
 # The Photographer + Mission
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a2c5b8d-7456-4520-af70-d57b2909c859.jpg)
+
+I know... Where are all the photos? Whats up with that? Well I am still developing this site :) sorry. Check out my facebook page to see some of my shots in the meanwhile. Send me a like and a share you bloody legends! Cheers! https://www.facebook.com/5050photo/
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Hey world these are my photos collected from 6 continents on our glorious Earth. Travel is one of the great blessings in my life and has illuminated the glorious splendor of existence to me in many ways: 
 
